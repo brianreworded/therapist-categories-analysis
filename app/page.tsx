@@ -21,7 +21,7 @@ export default function Home() {
 
   return (
     <div className="container mx-auto p-4">
-      <h1 className="text-4xl my-2">Therapist Methods Prototype</h1>
+      <h1 className="text-4xl my-2">Therapy Methods Examples Prototype</h1>
       <Filters
         topics={uniqueTopics}
         categories={uniqueCategories}
